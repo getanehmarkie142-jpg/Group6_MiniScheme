@@ -1,0 +1,6 @@
+(define (f x) x)
+(print (f 1 2))
+(print (undefined-var))
+(print (+ 1 #t))
+(print (car 5))
+(print (cons 1 2))
